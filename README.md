@@ -43,8 +43,10 @@ Update the color and properties of tiles within the Tile class.
 Exporting/Importing Maps:
 
 The maps are saved in JSON format, making it easy to export and import different levels. You can open and modify saved maps using a text editor or within the game maker itself.
-### Map layout 
-[Map_Layout_Github](https://github.com/user-attachments/assets/e2b33f6a-3712-4bea-81b4-8a768e323801)
+### Map layout
+![Map_Layout_Github](https://github.com/user-attachments/assets/a347d96d-7b56-4902-81cc-cb0e41b69926)
+
+
 
 ### Example Video
 

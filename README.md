@@ -35,9 +35,10 @@ Pygame: For game development and rendering tiles.
 - pip install pygame 
 - pip install PyQt5 
 
-Using the Map Editor:
+### Using the Map Editor:
 
-### Tile Selection: Use the menu bar at the top to select different tile types (Platform, Coin, Key, Door, Empty).
+Tile Selection:
+Use the menu bar at the top to select different tile types (Platform, Coin, Key, Door, Empty).
 Placing Tiles: Left-click on the grid to place the selected tile at the clicked position.
 Undoing Actions: Use the "Undo" option from the menu to revert your last action.
 Saving and Loading Maps: You can save your maps in JSON format and load previously saved maps. To save, go to File > Save Map, and to load, go to File > Load Map.

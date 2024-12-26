@@ -1,6 +1,7 @@
-### I stopped workng on this project so be warned it is super bare bone and has lots of bugs. 
-Feel free to do whatever you want with the code :)
+### I stopped workng on this project so be warned it is super bare bones and has lots of bugs. 
+Feel free to do whatever you want with the code :) just download zip file and open it all up in your IDE 
 
+### Made With Python \ PyQ \ Pygame
 
 # Platform Game Maker Engine
 This repository provides the starting point for a Platform Game Maker Engine that allows users to create custom platformer game maps using a graphical interface. The engine is built using Pygame for game development, PyQt5 for GUI elements, and JSON for saving and loading maps. It's designed to be intuitive and easy to use, providing a simple environment where you can create levels by placing tiles like platforms, coins, keys, and doors on a grid.

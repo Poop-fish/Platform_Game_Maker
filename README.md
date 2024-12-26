@@ -32,7 +32,7 @@ pip install PyQt5
 
 Using the Map Editor:
 
-Tile Selection: Use the menu bar at the top to select different tile types (Platform, Coin, Key, Door, Empty).
+### Tile Selection: Use the menu bar at the top to select different tile types (Platform, Coin, Key, Door, Empty).
 Placing Tiles: Left-click on the grid to place the selected tile at the clicked position.
 Undoing Actions: Use the "Undo" option from the menu to revert your last action.
 Saving and Loading Maps: You can save your maps in JSON format and load previously saved maps. To save, go to File > Save Map, and to load, go to File > Load Map.
@@ -43,6 +43,8 @@ Update the color and properties of tiles within the Tile class.
 Exporting/Importing Maps:
 
 The maps are saved in JSON format, making it easy to export and import different levels. You can open and modify saved maps using a text editor or within the game maker itself.
+### Map layout 
+First map is this![Map_Layout_Github](https://github.com/user-attachments/assets/e2b33f6a-3712-4bea-81b4-8a768e323801)
 
 ### Example Video
 

@@ -32,8 +32,8 @@ Before you run the code, make sure you have the following installed:
 
 Python (version 3.6 or higher)
 Pygame: For game development and rendering tiles.
-pip install pygame 
-pip install PyQt5 
+- pip install pygame 
+- pip install PyQt5 
 
 Using the Map Editor:
 

@@ -44,15 +44,7 @@ Exporting/Importing Maps:
 
 The maps are saved in JSON format, making it easy to export and import different levels. You can open and modify saved maps using a text editor or within the game maker itself.
 ### Map layout 
-First map is this![Map_Layout_Github](https://github.com/user-attachments/assets/e2b33f6a-3712-4bea-81b4-8a768e323801)
-
-
-
-
-
-
-
-
+[Map_Layout_Github](https://github.com/user-attachments/assets/e2b33f6a-3712-4bea-81b4-8a768e323801)
 
 ### Example Video
 

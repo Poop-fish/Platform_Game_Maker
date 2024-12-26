@@ -21,3 +21,30 @@ Key (Neon Pink)
 Door (Red)
 Empty (White)
 These tiles represent various elements of a platformer game level, and you can customize them as per your needs.
+
+### Prerequisites:
+Before you run the code, make sure you have the following installed:
+
+Python (version 3.6 or higher)
+Pygame: For game development and rendering tiles.
+pip install pygame 
+pip install PyQt5 
+
+Using the Map Editor:
+
+Tile Selection: Use the menu bar at the top to select different tile types (Platform, Coin, Key, Door, Empty).
+Placing Tiles: Left-click on the grid to place the selected tile at the clicked position.
+Undoing Actions: Use the "Undo" option from the menu to revert your last action.
+Saving and Loading Maps: You can save your maps in JSON format and load previously saved maps. To save, go to File > Save Map, and to load, go to File > Load Map.
+Customizing Tiles:
+
+You can add new tile types or modify existing ones by editing the Tile class and the MapEditor class.
+Update the color and properties of tiles within the Tile class.
+Exporting/Importing Maps:
+
+The maps are saved in JSON format, making it easy to export and import different levels. You can open and modify saved maps using a text editor or within the game maker itself.
+
+### Example Video
+
+https://github.com/user-attachments/assets/850ac082-bb93-444f-84c2-325a25f1fbd4
+
